@@ -4,5 +4,5 @@
 I created an IOS Calculator with using CSS Grid and Flexbox
 
 ## Outcome 
-![Sample](Overview.png)
+![Overview](Overview.png)
 
