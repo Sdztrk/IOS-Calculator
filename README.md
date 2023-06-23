@@ -4,5 +4,5 @@
 I created an IOS Calculator with using HTML, CSS Grid and I added functionality with JS.
 
 ## Outcome 
-![Overview](Overview.png)
+![Overview](Overview.gif)
 
